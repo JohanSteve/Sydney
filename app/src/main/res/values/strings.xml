@@ -6,4 +6,20 @@
     <string name="hello_blank_fragment2">Hello blank fragment number 2</string>
 
 
+    <!--photos of sydney  -->
+    <string name="Hyde_Park">Hyde Park</string>
+    <string name="Bondi_Beach">Bondi Beach</string>
+    <string name="Darling_harbour">Darling Harbour</string>
+    <string name="Opera_house">Opera_House</string>
+    <string name="Chinatown">Chinatown</string>
+
+
+
+    <string name="descriptionHyde">the central park</string>
+    <string name="descriptionBondi">the most popular beach</string>
+    <string name="descriptionHarbour">place to visit</string>
+    <string name="descriptionOpera">australian symbol</string>
+    <string name="descriptionChina">diferent small town</string>
+
+
 </resources>
